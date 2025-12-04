@@ -37,7 +37,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="200" />
    <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="200" />
    <br>
-      <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="300" />
+      <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="500" />
 
 
 </p>
