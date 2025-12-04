@@ -91,7 +91,6 @@
   <img src="https://img.shields.io/badge/SceneBuilder-6DB33F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 </p>
 
 ## 📊 My GitHub Stats
