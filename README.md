@@ -22,6 +22,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <em><b>🌸 Hair Flip by Su-ae</b></em>
  </p>
 
+
 ## 💚 My Favorite Characters & Inspirations
 
 ### 💜 BTS
@@ -37,6 +38,8 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
    <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="200" />
    <br>
       <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="500" />
+
+
 </p>
 
 ### 🌙 Eunhyeok, Dowha, and Su-ae from *"Operation: True Love"*
@@ -64,36 +67,25 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 ## 💻 My Skills
 
 ### 🧠 Coding & Dev Tools
-
-<p align="center">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</p>
 
 ### 🎨 Design
-
-<p align="center">
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Scene Builder](https://img.shields.io/badge/SceneBuilder-6DB33F?style=for-the-badge&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logoColor=white)
-</p>
 
-## 📊 My GitHub Stats 💚
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Badges -->
   <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=4CAF50&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/jsmnnfr?style=for-the-badge&color=81C784&logoColor=white" alt="Public Repos" />
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=66BB6A&logoColor=white" alt="Stars" />
 </p>
 
-<p align="center">
-  <em>Green vibes only 💚✨</em>
-</p>
+## 📈 GitHub Contributions
 
 <p align="center">
-  <!-- Contribution Calendar -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmnnfr&theme=green&hide_border=true" alt="GitHub Streak Stats" width="600" />
 </p>
 
@@ -103,12 +95,3 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 <p align="center">
   <em>May your day be soft, green, and calm. 💚</em>
 </p>
-
-
-
-
-
-
-
-
-
