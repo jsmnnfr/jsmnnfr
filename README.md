@@ -84,7 +84,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 
 <p align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jsmnnfr\&show_icons=true\&theme=merko)
+![Stats] (https://github-readme-stats.vercel.app/api?username=jsmnnfr&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsmnnfr\&layout=compact\&theme=merko)
 
