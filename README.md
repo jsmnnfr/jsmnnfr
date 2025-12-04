@@ -83,9 +83,12 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsmnnfr&show_icons=true&theme=gruvbox&count_private=true" alt="jsmnnfr's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jsmnnfr&show_icons=true&theme=tokyonight&count_private=true" alt="jsmnnfr's GitHub Stats" width="500"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsmnnfr&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
+</p>
 
 ## 🍃 Thanks for visiting!
 
