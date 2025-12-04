@@ -21,6 +21,9 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/hairflip.gif" width="400" />
 </p>
 
+ <p align="center">
+  <em><b>🌸 Hair Flip by Su-ae</b></em>
+
 ---
 
 
