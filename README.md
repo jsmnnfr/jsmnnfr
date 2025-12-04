@@ -64,29 +64,25 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/paula.jpg" width="300" />
 </p>
 
-## 💻 My Skills
+### 💻 My Skills
 
-### 🧠 Coding & Dev Tools
+#### 🧠 Coding & Dev Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* Java
-* Python
-* MySQL
-* HTML
-* CSS
-
-### 🎨 Design
-
-* Figma
-* Scene Builder
-* PyQt
+#### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Scene Builder](https://img.shields.io/badge/SceneBuilder-6DB33F?style=for-the-badge&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=4CAF50&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/jsmnnfr?style=for-the-badge&color=81C784&logoColor=white" alt="Public Repos" />
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=66BB6A&logoColor=white" alt="Stars" />
 </p>
+
 
 ## 🍃 Thanks for visiting!
 
