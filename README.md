@@ -76,18 +76,20 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 ![Scene Builder](https://img.shields.io/badge/SceneBuilder-6DB33F?style=for-the-badge&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats 💚
 
 <p align="center">
+  <!-- Badges -->
   <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=4CAF50&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/jsmnnfr?style=for-the-badge&color=81C784&logoColor=white" alt="Public Repos" />
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=66BB6A&logoColor=white" alt="Stars" />
 </p>
 
-## 📈 GitHub Contributions
-
 <p align="center">
+  <!-- Contribution Calendar -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmnnfr&theme=green&hide_border=true" alt="GitHub Streak Stats" width="600" />
 </p>
+
 
 
 ## 🍃 Thanks for visiting!
