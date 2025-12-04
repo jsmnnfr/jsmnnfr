@@ -1,7 +1,7 @@
  # 🌿 Hi, I'm **jsmnnfr**! 💚
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsgif.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsgif.gif" width="200" />
   <br>
   <em>Green, BTS, Manwha, and you 🍃</em>
   <br>
