@@ -5,7 +5,7 @@
   <br>
   <em>Green, cute, and aesthetic vibes only 🍃</em>
   <br>
-  <<img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="800" height="400" />
+  <<img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="800" height="200" />
 </p>
  
 
