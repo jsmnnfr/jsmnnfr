@@ -28,13 +28,15 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 ### 💜 BTS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsdance.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsdance.gif" width="300" /> 
 </p>
 
 ### 🌸 Serena and Eiser — *Serena*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="500" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="300" />
+   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="300" />
+
 </p>
 
 ### 🌙 Siyun and Jeongmin — *Dreaming Freedom*
