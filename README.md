@@ -31,7 +31,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsdance.gif" width="500" /> 
 </p>
 
-### 🌸 Serena and Eiser — *Serena*
+### 🌸 Serena and Eiser from *Serena*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="200" />
@@ -42,7 +42,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 
 </p>
 
-### 🌙 Eunhyeok, Dowha, and Su-ae — *Operation: True Love*
+### 🌙 Eunhyeok, Dowha, and Su-ae from *Operation: True Love*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eunhyeok.jpg" width="200" />
@@ -50,13 +50,34 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="200" />
 </p>
 
-### 🌼 Zheng Shuyi and Shi Yan — *Accidental Love*
+### 🌼 Zheng Shuyi and Shi Yan from *Accidental Love*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shuyinsmilee.jpg" width="500" />
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyancarr.jpg" width="500" />
-
 </p>
+
+## 💻 My Skills
+
+### 🧠 Coding & Dev Tools
+
+* Java
+* Python
+* MySQL
+* HTML
+* CSS
+
+### 🎨 Design
+
+* Figma
+* Scene Builder
+* PyQt
+
+
+
+
+
+
 
 ---
 
