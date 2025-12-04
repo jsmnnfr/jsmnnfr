@@ -5,7 +5,7 @@
   <br>
   <em>Green, cute, and aesthetic vibes only 🍃</em>
   <br>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="200" />
 </p>
 
 ## 💚 About Me
