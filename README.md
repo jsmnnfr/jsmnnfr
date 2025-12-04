@@ -80,6 +80,13 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 * Scene Builder
 * PyQt
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsmnnfr&show_icons=true&theme=gruvbox&count_private=true" alt="jsmnnfr's GitHub Stats"/>
+</p>
+
+
 ## 🍃 Thanks for visiting!
 
 <p align="center">
