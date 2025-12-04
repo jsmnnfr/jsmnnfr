@@ -31,7 +31,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsdance.gif" width="500" /> 
 </p>
 
-### 🌸 Serena and Eiser from *Serena*
+### 🌸 Serena and Eiser from *"Serena"*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="200" />
@@ -42,7 +42,7 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 
 </p>
 
-### 🌙 Eunhyeok, Dowha, and Su-ae from *Operation: True Love*
+### 🌙 Eunhyeok, Dowha, and Su-ae from *"Operation: True Love"*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eunhyeok.jpg" width="200" />
@@ -50,18 +50,18 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="200" />
 </p>
 
-### 🌼 Zheng Shuyi and Shi Yan from *Accidental Love*
+### 🌼 Zheng Shuyi and Shi Yan from *"Accidental Love"*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shuyinsmilee.jpg" width="500" />
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyancarr.jpg" width="500" />
 </p>
 
-### 🌼 Paula and Vincent from *The Count's Secret Maid*
+### 🌼 Paula and Vincent from *"The Count's Secret Maid"*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/vincent.jpg" width="400" />
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/paula.jpg" width="400" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/vincent.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/paula.jpg" width="300" />
 </p>
 
 ## 💻 My Skills
