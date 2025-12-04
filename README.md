@@ -1,4 +1,4 @@
- # 🌿 Hi, I'm **jsmnnfr**! 💚
+ # 🌿 Hi, I'm **Jasmine Nofre**! 💚
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsgif.gif" width="200" />
