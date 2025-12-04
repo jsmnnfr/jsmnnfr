@@ -83,6 +83,12 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=66BB6A&logoColor=white" alt="Stars" />
 </p>
 
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmnnfr&theme=green&hide_border=true" alt="GitHub Streak Stats" width="600" />
+</p>
+
 
 ## 🍃 Thanks for visiting!
 
