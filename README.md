@@ -5,6 +5,7 @@
   <br>
   <em>Green, cute, and aesthetic vibes only 🍃</em>
 </p>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/divider.gif" width="800" />
 
 
 
