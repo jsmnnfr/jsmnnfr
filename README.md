@@ -10,7 +10,9 @@
 
 ## 💚 About Me
 
-Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything cute + aesthetic. I enjoy building projects that mix creativity and tech. I also love BTS and manhwa characters.
+<p align="center"> 
+ <b> Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything cute + aesthetic. I enjoy building projects that mix creativity and tech. I also love BTS and manhwa characters. </b>
+</p>
 
 ## 🌿 Mood Everyday
 
