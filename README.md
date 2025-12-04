@@ -53,8 +53,9 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 ### 🌼 Zheng Shuyi and Shi Yan — *Accidental Love*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shuyi.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyan.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shuyismilee.jpg" width="300" />
+ <br>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyancarr.jpg" width="300" />
 
 </p>
 
