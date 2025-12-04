@@ -10,7 +10,7 @@
 
 ## 💚 About Me
 
-Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything cute + aesthetic. I enjoy building projects that mix creativity and tech. I also love BTS and manhwa characters — they inspire my style and mood a lot.
+Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything cute + aesthetic. I enjoy building projects that mix creativity and tech. I also love BTS and manhwa characters.
 
 ## 🌿 Mood Everyday
 
@@ -42,16 +42,20 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 
 </p>
 
-### 🌙 Siyun and Jeongmin — *Dreaming Freedom*
+### 🌙 Eunhyeok, Dowha, and Su-ae — *Operation: True Love*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="500" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eunhyeok.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/suae.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="300" />
 </p>
 
 ### 🌼 Zheng Shuyi and Shi Yan — *Accidental Love*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="500" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shuyi.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyan.jpg" width="300" />
+
 </p>
 
 ---
