@@ -22,7 +22,6 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <em><b>🌸 Hair Flip by Su-ae</b></em>
  </p>
 
-
 ## 💚 My Favorite Characters & Inspirations
 
 ### 💜 BTS
@@ -38,8 +37,6 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
    <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="200" />
    <br>
       <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="500" />
-
-
 </p>
 
 ### 🌙 Eunhyeok, Dowha, and Su-ae from *"Operation: True Love"*
