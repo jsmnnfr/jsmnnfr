@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyancarr.jpg" width="400" />
 </p>
 
-### 🌼 Paula and Vincent from *"The Count's Secret Maid"*
+### 🍃 Paula and Vincent from *"The Count's Secret Maid"*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/vincent.jpg" width="200" />
