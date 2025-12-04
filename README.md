@@ -57,6 +57,13 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyancarr.jpg" width="500" />
 </p>
 
+### 🌼 Paula and Vincent from *The Count's Secret Maid*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/vincent.jpg" width="400" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/paula.jpg" width="400" />
+</p>
+
 ## 💻 My Skills
 
 ### 🧠 Coding & Dev Tools
@@ -73,13 +80,6 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 * Scene Builder
 * PyQt
 
-
-
-
-
-
-
----
 
 
 
