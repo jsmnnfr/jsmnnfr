@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsgif.gif" width="300" />
   <br>
-  <em>Green, cute, and aesthetic vibes only 🍃</em>
+  <em>Green, BTS, Manwha, and you 🍃</em>
   <br>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="200" />
 </p>
@@ -80,15 +80,13 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 * Scene Builder
 * PyQt
 
-## 📊 GitHub Stats
+## 🍃 Thanks for visiting!
 
 <p align="center">
-
-![Stats] (https://github-readme-stats.vercel.app/api?username=jsmnnfr&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsmnnfr\&layout=compact\&theme=merko)
-
+  <em>May your day be soft, green, and calm. 💚</em>
 </p>
+
+
 
 
 
