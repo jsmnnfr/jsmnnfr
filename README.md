@@ -84,6 +84,9 @@ Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything c
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsmnnfr&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsmnnfr&layout=compact&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge)
+![Public Repos](https://img.shields.io/github/repos/jsmnnfr?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge)
 
 
 ## 🍃 Thanks for visiting!
