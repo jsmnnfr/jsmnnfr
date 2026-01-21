@@ -14,31 +14,42 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mindflayer.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mindflayer.gif" width="420"/>
 </p>
 
-# 🩸 I’m **Jasmine Nofre** 🕯️
-### Code • Design • Music • Manhwa • Stranger Things
+<br>
+
+<h1 align="center">🩸 I’m <b>Jasmine Nofre</b> 🕯️</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger things.gif" width="400"/>
- <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="500"/>
+  <em>Code • Design • Music • Manhwa • Stranger Things</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger%20things.gif" width="380"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="480"/>
+</p>
 
-## 🧪 ABOUT ME
+<br><br>
 
-> *Somewhere between Hawkins and late-night coding…*
+## 🧪 EPISODE I — ABOUT ME
+
+<p align="center">
+  <em>Somewhere between Hawkins and late-night coding</em>
+</p>
 
 I enjoy building projects that mix **logic and aesthetics**.  
-If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸🌙
+I’m drawn to ideas that feel **cinematic, emotional, and slightly chaotic**.  
+If it feels like it belongs in a dark room with music playing — that’s my space 🩸🌙
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="460"/>
 </p>
 
+<br>
 
-## 🎧 NOW PLAYING — STRANGER THINGS VIBE
+## 🎧 EPISODE II — NOW PLAYING
 
 <p align="center">
   <iframe style="border-radius:12px"
@@ -50,14 +61,20 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   </iframe>
 </p>
 
-### 🩸 Recommended Songs
-- Running Up That Hill – Kate Bush  
-- After Dark – Mr. Kitty  
-- Black Swan – BTS  
-- Space Song – Beach House  
-- 505 – Arctic Monkeys  
+<p align="center">
+  <em>Soundtrack for coding in the Upside Down</em>
+</p>
 
-## 🕸️ MOOD TODAY
+🩸 **Recommended Songs**
+- Running Up That Hill — Kate Bush  
+- After Dark — Mr. Kitty  
+- Black Swan — BTS  
+- Space Song — Beach House  
+- 505 — Arctic Monkeys  
+
+<br>
+
+## 🕸️ EPISODE III — MOOD TODAY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/hairflip.gif" width="220"/>
@@ -66,33 +83,43 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="460"/>
 </p>
 
+<br>
 
-## 🧬 FAVORITE CHARACTERS & INSPIRATIONS
+## 🧬 EPISODE IV — FAVORITE CHARACTERS
 
-### 🩸 Dustin, Lucas, Will, Mike, Max, Eleven, Nancy, Jonathan, Steve
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dustin.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/lucas.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/will2.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mike.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/max.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eleven.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/nancy.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/jonathan.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/steve.gif" width="150"/>
+  <em>The ones who survived the Upside Down</em>
 </p>
+
+### 🩸 Stranger Things
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dustin.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/lucas.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/will2.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mike.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/max.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eleven.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/nancy.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/jonathan.gif" width="135"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/steve.gif" width="135"/>
+</p>
+
+<br>
 
 ### 🌹 Serena — Serena & Eiser
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="150"/>
-  <br>
+  <br><br>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="420"/>
 </p>
+
+<br>
 
 ### 🖤 Operation: True Love
 
@@ -102,9 +129,9 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="150"/>
 </p>
 
-## 🖥️ SKILLS — UPSIDE DOWN EDITION
+<br><br>
 
-### 🧠 Coding
+## 🖥️ EPISODE V — SKILLS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white"/>
@@ -113,26 +140,28 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://img.shields.io/badge/JavaFX-800000?style=for-the-badge"/>
 </p>
 
-### 🎨 Design
-
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-B22222?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-4B0082?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
+<br>
 
-
-## 📡 SIGNALS FROM THE OTHER SIDE
+## 📡 EPISODE VI — SIGNALS FROM THE OTHER SIDE
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=8B0000"/>
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
 
-# 🕯️ FINAL NOTE
+<br><br>
+
+<h2 align="center">🕯️ FINAL NOTE</h2>
 
 <p align="center">
-  <em>
-    "Friends don't lie"
-  </em>
+  <em>“Friends don’t lie.”</em>
+</p>
+
+<p align="center">
+  🩸🌙
 </p>
