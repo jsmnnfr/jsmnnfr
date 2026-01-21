@@ -164,3 +164,13 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
   🩸🌙
 </p>
 
+## 🎮 EPISODE VII — ESCAPE THE UPSIDE DOWN
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/upsidedown.svg" width="500"/>
+</p>
+
+<p align="center">
+  <em>Survive. Don’t blink. Don’t lie.</em>
+</p>
+
