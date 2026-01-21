@@ -163,3 +163,58 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 <p align="center">
   🩸🌙
 </p>
+
+<hr>
+
+## 🕹️ EPISODE VII — ESCAPE THE UPSIDE DOWN
+
+<p align="center"><em>You wake up in Hawkins… but something feels wrong.</em></p>
+
+<details>
+  <summary>🩸 Enter the dark forest</summary>
+
+  <p>You hear vines moving. Something is watching you.</p>
+
+  <details>
+    <summary>🔥 Run toward the red lights</summary>
+    <p>❌ Vecna finds you. Your vision blurs. Game over.</p>
+  </details>
+
+  <details>
+    <summary>🕯️ Hide and stay silent</summary>
+    <p>You survive… for now.</p>
+
+    <details>
+      <summary>🚲 Steal a bike and escape</summary>
+      <p>✅ You reach Hawkins safely. Friends don’t lie.</p>
+    </details>
+
+    <details>
+      <summary>📻 Follow the strange radio sound</summary>
+      <p>❌ The Mind Flayer was waiting.</p>
+    </details>
+
+  </details>
+</details>
+
+<details>
+  <summary>🩸 Enter the abandoned house</summary>
+
+  <p>The walls are bleeding. Clocks start ticking.</p>
+
+  <details>
+    <summary>⏰ Touch the clock</summary>
+    <p>❌ Vecna claims another victim.</p>
+  </details>
+
+  <details>
+    <summary>🎧 Play music loudly</summary>
+    <p>✅ The music pulls you back to reality. You escape.</p>
+  </details>
+
+</details>
+
+<p align="center"><em>🕯️ Tip: Music saves lives.</em></p>
+
+<hr>
+
