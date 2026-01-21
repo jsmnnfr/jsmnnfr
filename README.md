@@ -163,3 +163,30 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 <p align="center">
   🩸🌙
 </p>
+
+## 🕹️ EPISODE VII — THE UPSIDE DOWN SIGNAL
+<p align="center">
+  <svg width="420" height="90" viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .signal {
+        font-family: 'Courier New', monospace;
+        font-size: 26px;
+        letter-spacing: 6px;
+        fill: #7b0000;
+        animation: pulse 6s ease-in-out infinite;
+      }
+
+      @keyframes pulse {
+        0%   { opacity: 0.25; }
+        50%  { opacity: 1; }
+        100% { opacity: 0.25; }
+      }
+    </style>
+
+    <text x="50%" y="55%" text-anchor="middle" class="signal">
+      H E L P   M E
+    </text>
+  </svg>
+  <br>
+  <em>The wall is breathing.</em>
+</p>
