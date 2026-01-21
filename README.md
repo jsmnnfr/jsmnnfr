@@ -17,8 +17,6 @@
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mindflayer.gif" width="420"/>
 </p>
 
-<br>
-
 <h1 align="center">🩸Hi! I’m <b>Jasmine Nofre</b> 🕯️</h1>
 
 <p align="center">
@@ -29,8 +27,6 @@
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger%20things.gif" width="380"/>
   <br>
 </p>
-
-<br>
 
 ## 🧪 EPISODE I — ABOUT ME
 
@@ -44,8 +40,6 @@ I love it when some music playing while working on a project. 🩸🌙
 <p align="center">
    <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="480"/>
 </p>
-
-<br>
 
 ## 🎧 EPISODE II — NOW PLAYING
 
@@ -66,8 +60,6 @@ I love it when some music playing while working on a project. 🩸🌙
 - Space Song — Beach House  
 - 505 — Arctic Monkeys  
 
-<br>
-
 ## 🕸️ EPISODE III — MOOD TODAY
 
 <p align="center">
@@ -75,8 +67,6 @@ I love it when some music playing while working on a project. 🩸🌙
   <br>
   <em><b>Soft energy, dark thoughts, main character moment</b></em>
 </p>
-
-<br>
 
 ## 🧬 EPISODE IV — FAVORITE CHARACTERS
 
@@ -98,8 +88,6 @@ I love it when some music playing while working on a project. 🩸🌙
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/steve.gif" width="135"/>
 </p>
 
-<br>
-
 ### 🌹 Serena — Serena & Eiser
 
 <p align="center">
@@ -108,8 +96,6 @@ I love it when some music playing while working on a project. 🩸🌙
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="420"/>
 </p>
 
-<br>
-
 ### 🖤 Operation: True Love
 
 <p align="center">
@@ -117,8 +103,6 @@ I love it when some music playing while working on a project. 🩸🌙
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/suae.jpg" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="150"/>
 </p>
-
-<br><br>
 
 ## 🖥️ EPISODE V — SKILLS
 
@@ -141,17 +125,12 @@ I love it when some music playing while working on a project. 🩸🌙
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-
-<br>
-
 ## 📡 EPISODE VI — SIGNALS FROM THE OTHER SIDE
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=8B0000"/>
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
-
-<br>
 
 ## 🎮 EPISODE VIII — ESCAPE THE UPSIDE DOWN
 
@@ -174,8 +153,6 @@ I love it when some music playing while working on a project. 🩸🌙
   <em>The wall is trying to warn you.</em>
 </p>
 
-<br>
-
 <h2>🕯️ FINAL NOTE</h2>
 
 <p align="center">
@@ -185,4 +162,3 @@ I love it when some music playing while working on a project. 🩸🌙
 <p align="center">
   🩸🌙
 </p>
-
