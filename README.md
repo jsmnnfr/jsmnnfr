@@ -34,7 +34,7 @@ I enjoy building projects that mix **logic and aesthetics**.
 If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸🌙
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="500"/>
 </p>
 
 
@@ -66,7 +66,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="500"/>
 </p>
 
 
@@ -76,7 +76,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dustin.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/lucas.gif" width="150"/>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/will.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/will2.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mike.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/max.gif" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eleven.gif" width="150"/>
@@ -103,7 +103,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="160"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="500"/>
 </p>
 
 
