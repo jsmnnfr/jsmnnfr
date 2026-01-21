@@ -1,11 +1,13 @@
 <!-- ================= STRANGER THINGS THEME README ================= -->
 
+```text
 ███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗   ████████╗██╗  ██╗██╗███╗   ██╗ ██████╗ ███████╗
 ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗  ╚══██╔══╝██║  ██║██║████╗  ██║██╔════╝ ██╔════╝
 ███████╗   ██║   ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝     ██║   ███████║██║██╔██╗ ██║██║  ███╗███████╗
 ╚════██║   ██║   ██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗     ██║   ██╔══██║██║██║╚██╗██║██║   ██║╚════██║
 ███████║   ██║   ██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗██║  ██║     ██║   ██║  ██║██║██║ ╚████║╚██████╔╝███████║
 ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+```
 
 <p align="center">
   <em>WELCOME TO THE UPSIDE DOWN</em>
@@ -25,6 +27,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger%20things.gif" width="380"/>
+  <br>
 </p>
 
 <br>
@@ -75,39 +78,13 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 <br>
 
-## 🕯️ EPISODE VII — THE UPSIDE DOWN SIGNAL
-
-<p align="center">
-  <svg width="420" height="90" viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .signal {
-        font-family: 'Courier New', monospace;
-        font-size: 26px;
-        letter-spacing: 6px;
-        fill: #7b0000;
-        animation: pulse 6s ease-in-out infinite;
-      }
-      @keyframes pulse {
-        0%   { opacity: 0.25; }
-        50%  { opacity: 1; }
-        100% { opacity: 0.25; }
-      }
-    </style>
-    <text x="50%" y="55%" text-anchor="middle" class="signal">
-      H E L P   M E
-    </text>
-  </svg>
-  <br>
-  <em>Signal strength: unstable</em>
-</p>
-
-<br>
-
 ## 🧬 EPISODE IV — FAVORITE CHARACTERS
 
 <p align="center">
   <em>The ones who survived the Upside Down except for one person</em>
 </p>
+
+### 🩸 Stranger Things
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dustin.gif" width="135"/>
@@ -123,14 +100,48 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 <br>
 
+### 🌹 Serena — Serena & Eiser
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="150"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="420"/>
+</p>
+
+<br>
+
+### 🖤 Operation: True Love
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eunhyeok.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/suae.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="150"/>
+</p>
+
+<br><br>
+
 ## 🖥️ EPISODE V — SKILLS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SceneBuilder-6DB33F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
 
 <br>
 
@@ -141,12 +152,15 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
 
-<br>
+<br><br>
 
-<h2 align="center">🕯️ FINAL NOTE</h2>
+<h2>🕯️ FINAL NOTE</h2>
 
 <p align="center">
   <em><b>“Friends don’t lie.”</b></em>
 </p>
 
-<p align="center">🩸🌙</p>
+<p align="center">
+  🩸🌙
+</p>
+
