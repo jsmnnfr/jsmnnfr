@@ -1,6 +1,6 @@
 <!-- ================= STRANGER THINGS THEME README ================= -->
 
-<p align="center">
+<p>
 ███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗ 
 ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗
 ███████╗   ██║   ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝
@@ -40,7 +40,6 @@
 </p>
 
 I enjoy building projects that mix **logic and aesthetics**.  
-I’m drawn to ideas that feel **cinematic, emotional, and slightly chaotic**.  
 If it feels like it belongs in a dark room with music playing — that’s my space 🩸🌙
 
 <p align="center">
@@ -91,7 +90,7 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 ## 🧬 EPISODE IV — FAVORITE CHARACTERS
 
 <p align="center">
-  <em>The ones who survived the Upside Down</em>
+  <em>The ones who survived the Upside Down except for one</em>
 </p>
 
 ### 🩸 Stranger Things
@@ -156,7 +155,7 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 <br><br>
 
-<h2 align="center">🕯️ FINAL NOTE</h2>
+<h2>🕯️ FINAL NOTE</h2>
 
 <p align="center">
   <em>“Friends don’t lie.”</em>
