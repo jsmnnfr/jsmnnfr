@@ -102,12 +102,6 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="150"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="500"/>
-</p>
-
-
-
 ## 🖥️ SKILLS — UPSIDE DOWN EDITION
 
 ### 🧠 Coding
@@ -135,13 +129,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="200"/>
-</p>
-
-
-
-## 🕯️ FINAL NOTE
+#### 🕯️ FINAL NOTE
 
 <p align="center">
   <em>
