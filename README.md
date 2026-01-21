@@ -105,7 +105,6 @@ I love it when some music playing while working on a project. 🩸🌙
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="150"/>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="150"/>
-  <br><br>
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="420"/>
 </p>
 
