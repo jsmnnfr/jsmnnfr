@@ -19,7 +19,7 @@
 
 <br>
 
-<h1 align="center">🩸 I’m <b>Jasmine Nofre</b> 🕯️</h1>
+<h1 align="center">🩸Hi! I’m <b>Jasmine Nofre</b> 🕯️</h1>
 
 <p align="center">
   <em>Code • Design • Music • Manhwa • Stranger Things</em>
