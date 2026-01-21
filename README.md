@@ -32,7 +32,7 @@
 
 <br>
 
-## <font color="darkred">🧪 EPISODE I — ABOUT ME</font>
+## <font color="crimson">🧪 EPISODE I — ABOUT ME</font>
 
 <p align="center">
   <em>Somewhere between Hawkins and late-night coding</em>
