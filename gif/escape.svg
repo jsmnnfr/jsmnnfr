@@ -1,0 +1,70 @@
+<svg width="520" height="220" viewBox="0 0 520 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0b0b0b; }
+    .route { fill: #222; cursor: pointer; }
+    .label { fill: #aaa; font-family: monospace; font-size: 14px; text-anchor: middle; }
+    .danger { fill: #8b0000; animation: flicker 2s infinite; }
+    .safe { fill: #ffcc33; animation: pulse 2s infinite; }
+
+    @keyframes flicker {
+      0%,100% { opacity: 1; }
+      40% { opacity: .4; }
+      60% { opacity: 1; }
+    }
+
+    @keyframes pulse {
+      0% { opacity: .4; }
+      50% { opacity: 1; }
+      100% { opacity: .4; }
+    }
+  </style>
+
+  <rect width="520" height="220" class="bg"/>
+
+  <text x="260" y="28" fill="#8b0000" font-family="monospace" font-size="18" text-anchor="middle">
+    CHOOSE YOUR ESCAPE
+  </text>
+
+  <!-- RUN -->
+  <a href="#-escape-success">
+    <circle cx="100" cy="120" r="22" class="route safe"/>
+    <text x="100" y="165" class="label">RUN</text>
+    <title>Run as fast as you can.</title>
+  </a>
+
+  <!-- HIDE -->
+  <a href="#-escape-unknown">
+    <circle cx="260" cy="120" r="22" class="route"/>
+    <text x="260" y="165" class="label">HIDE</text>
+    <title>Hold your breath.</title>
+  </a>
+
+  <!-- STAY -->
+  <a href="#-escape-fail">
+    <circle cx="420" cy="120" r="22" class="route danger"/>
+    <text x="420" y="165" class="label">STAY</text>
+    <title>The worst choice.</title>
+  </a>
+</svg>
+
+### 🩸 ESCAPE RESULTS
+
+#### 🟡 <a id="-escape-success"></a> YOU ESCAPED
+You ran.  
+The lights stopped blinking.  
+You survived… for now.
+
+---
+
+#### 🟠 <a id="-escape-unknown"></a> UNKNOWN FATE
+You hid.  
+Something passed by.  
+You’re not sure if it saw you.
+
+---
+
+#### 🔴 <a id="-escape-fail"></a> TOO LATE
+You stayed.  
+The lights went out.  
+You shouldn’t have hesitated.
+
