@@ -166,10 +166,47 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 <hr>
 
-## 🕹️ EPISODE VII — ESCAPE THE UPSIDE DOWN
+<h2 align="center">🕹️ EPISODE VII — ESCAPE THE UPSIDE DOWN</h2>
 
 <p align="center"><em>You wake up in Hawkins… but something feels wrong.</em></p>
 
+<!-- ===== Animated Vecna Clock ===== -->
+<p align="center">
+<svg width="220" height="220" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="80" stroke="#8B0000" stroke-width="4" fill="black">
+    <animate attributeName="r" values="78;82;78" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <line x1="100" y1="100" x2="100" y2="45" stroke="darkred" stroke-width="4">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 100 100"
+      to="360 100 100"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </line>
+
+  <text x="50%" y="92%" text-anchor="middle" fill="darkred" font-size="12">
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+    TICK. TICK. TICK.
+  </text>
+</svg>
+</p>
+
+<!-- ===== Choose Your Fate Animation ===== -->
+<p align="center">
+  <b style="color:darkred">▓▒░ CHOOSE YOUR FATE ░▒▓</b><br>
+  <svg width="320" height="22">
+    <text x="0" y="15" fill="red">
+      Click wisely. Some paths do not return.
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+<!-- ===== Interactive Game ===== -->
 <details>
   <summary>🩸 Enter the dark forest</summary>
 
@@ -182,7 +219,7 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
   <details>
     <summary>🕯️ Hide and stay silent</summary>
-    <p>You survive… for now.</p>
+    <p>You slow your breathing. The forest listens.</p>
 
     <details>
       <summary>🚲 Steal a bike and escape</summary>
@@ -200,7 +237,7 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 <details>
   <summary>🩸 Enter the abandoned house</summary>
 
-  <p>The walls are bleeding. Clocks start ticking.</p>
+  <p>The walls are bleeding. A grandfather clock echoes.</p>
 
   <details>
     <summary>⏰ Touch the clock</summary>
@@ -214,7 +251,15 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 </details>
 
+<!-- ===== Signal Divider ===== -->
+<p align="center">
+<svg width="100%" height="40">
+  <line x1="0" y1="20" x2="100%" y2="20" stroke="darkred" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>
+</p>
+
 <p align="center"><em>🕯️ Tip: Music saves lives.</em></p>
 
 <hr>
-
