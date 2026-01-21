@@ -49,14 +49,12 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 ## 🎧 EPISODE II — NOW PLAYING
 
+## 🎧 EPISODE II — NOW PLAYING
+
 <p align="center">
-  <iframe style="border-radius:12px"
-    src="https://open.spotify.com/embed/track/5PjdY0CKGZdEuoNab3yDmX"
-    width="300"
-    height="80"
-    frameBorder="0"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-  </iframe>
+  <a href="https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX">
+    <img src="https://img.shields.io/badge/Now%20Playing-Running%20Up%20That%20Hill-darkred?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
