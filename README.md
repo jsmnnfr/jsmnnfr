@@ -1,108 +1,157 @@
- # 🌿 Hi, I'm **Jasmine Nofre**! 💚
+<!-- ================= STRANGER THINGS THEME README ================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsgif.gif" width="200" />
+███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗ 
+██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗
+███████╗   ██║   ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝
+╚════██║   ██║   ██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗
+███████║   ██║   ██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗██║  ██║
+╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+</p>
+
+<p align="center">
+  <em>WELCOME TO THE UPSIDE DOWN</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mindflayer.gif" width="220"/>
+</p>
+
+# 🩸 I’m **Jasmine Nofre** 🕯️
+### Code • Design • Music • Manhwa • Stranger Things
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger things.gif" width="220"/>
+ <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="150"/>
+</p>
+
+---
+
+## 🧪 ABOUT ME
+
+> *Somewhere between Hawkins and late-night coding…*
+
+I enjoy building projects that mix **logic and aesthetics**.  
+If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸🌙
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="180"/>
+</p>
+
+---
+
+## 🎧 NOW PLAYING — STRANGER THINGS VIBE
+
+<p align="center">
+  <iframe style="border-radius:12px"
+    src="https://open.spotify.com/embed/track/5PjdY0CKGZdEuoNab3yDmX"
+    width="300"
+    height="80"
+    frameBorder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+  </iframe>
+</p>
+
+### 🩸 Recommended Songs
+- Running Up That Hill – Kate Bush  
+- After Dark – Mr. Kitty  
+- Black Swan – BTS  
+- Space Song – Beach House  
+- 505 – Arctic Monkeys  
+
+---
+
+## 🕸️ MOOD TODAY
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/hairflip.gif" width="220"/>
   <br>
-  <em>Green, BTS, Manwha, and programming🍃</em>
+  <em><b>Soft energy, dark thoughts, main character moment</b></em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="160"/>
+</p>
+
+---
+
+## 🧬 FAVORITE CHARACTERS & INSPIRATIONS
+
+### 🩸 Dustin, Lucas, Will, Mike, Max, Eleven, Nancy, Jonathan, Steve
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dustin.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/lucas.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/will.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mike.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/max.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eleven.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/nancy.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/jonathan.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/steve.gif" width="150"/>
+</p>
+
+### 🌹 Serena — Serena & Eiser
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="150"/>
   <br>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="420"/>
 </p>
 
-## 💚 About Me
-
-<p align="center"> 
- <b> Hi! Thanks for stopping by. I'm someone who loves coding, design, and anything cute + aesthetic. I enjoy building projects that mix creativity and tech. I also love BTS and manhwa characters. </b>
-</p>
-
-## 🌿 Mood Everyday
+### 🖤 Operation: True Love
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/hairflip.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eunhyeok.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/suae.jpg" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="150"/>
 </p>
 
- <p align="center">
-  <em><b>🌸 Hair Flip by Su-ae</b></em>
- </p>
-
-
-## 💚 My Favorite Characters & Inspirations
-
-### 💜 BTS
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/btsdance.gif" width="400" /> 
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="160"/>
 </p>
 
-### 🌸 Serena and Eiser from *"Serena"*
+---
+
+## 🖥️ SKILLS — UPSIDE DOWN EDITION
+
+### 🧠 Coding
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serena.jpg" width="150" />
-   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eiser.jpg" width="150" />
-   <br>
-      <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/serenaeiserr.jpg" width="400" />
-
-
-</p>
-
-### 🌙 Eunhyeok, Dowha, and Su-ae from *"Operation: True Love"*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/eunhyeok.jpg" width="150" />
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/suae.jpg" width="150" />
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/dowha.jpg" width="150" />
-</p>
-
-### 🌼 Zheng Shuyi and Shi Yan from *"Accidental Love"*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shuyinsmilee.jpg" width="400" />
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/shiyancarr.jpg" width="400" />
-</p>
-
-### 🍃 Paula and Vincent from *"The Count's Secret Maid"*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/vincent.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/paula.jpg" width="200" />
-</p>
-
-## 💻 My Skills
-
-### 🧠 Coding & Dev Tools
-
-<p align="center">
-  <!-- Coding & Dev Tools -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-2F4F4F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-800000?style=for-the-badge"/>
 </p>
 
 ### 🎨 Design
 
 <p align="center">
-  <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SceneBuilder-6DB33F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-B22222?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-4B0082?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-## 📊 My GitHub Stats
+---
+
+## 📡 SIGNALS FROM THE OTHER SIDE
 
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=4CAF50&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=66BB6A&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/jsmnnfr?style=for-the-badge&color=8B0000"/>
+  <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
-
-## 🍃 Thanks for visiting!
 
 <p align="center">
-  <em>May your day be soft, green, and calm. 💚</em>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="200"/>
 </p>
+
+---
+
+## 🕯️ FINAL NOTE
+
+<p align="center">
+  <em>
+    "Friends don't lie"
+  </em>
+</p>
+
+🩸🌙
