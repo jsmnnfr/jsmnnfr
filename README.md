@@ -129,7 +129,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
 
-#### 🕯️ FINAL NOTE
+# 🕯️ FINAL NOTE
 
 <p align="center">
   <em>
