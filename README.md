@@ -10,7 +10,7 @@
 ```
 
 <p align="center">
-  <em>WELCOME TO THE UPSIDE DOWN</em>
+  <h3 align="center"><em>"WELCOME TO THE UPSIDE DOWN"</em></h3>
 </p>
 
 <p align="center">
@@ -34,8 +34,9 @@
   <em>Somewhere between Hawkins and late-night coding</em>
 </p>
 
-I enjoy building and designing projects. 
-I love it when some music playing while working on a project. 🩸🌙
+<p align="center"> I enjoy building and designing projects. 
+  <br>
+I love it when some music playing while working on a project. 🩸🌙 </p>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="480"/>
@@ -156,7 +157,7 @@ I love it when some music playing while working on a project. 🩸🌙
 <h2>🕯️ FINAL NOTE</h2>
 
 <p align="center">
-  <em><b>“Friends don’t lie.”</b></em>
+  <em><b>“Friends don’t lie.” - Eleven</b></em>
 </p>
 
 <p align="center">
