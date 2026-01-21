@@ -80,16 +80,12 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
   <em><b>Soft energy, dark thoughts, main character moment</b></em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="460"/>
-</p>
-
 <br>
 
 ## 🧬 EPISODE IV — FAVORITE CHARACTERS
 
 <p align="center">
-  <em>The ones who survived the Upside Down except for one</em>
+  <em>The ones who survived the Upside Down except for one person</em>
 </p>
 
 ### 🩸 Stranger Things
@@ -157,7 +153,7 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 <h2>🕯️ FINAL NOTE</h2>
 
 <p align="center">
-  <em>“Friends don’t lie.”</em>
+  <em><b>“Friends don’t lie.”</b></em>
 </p>
 
 <p align="center">
