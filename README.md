@@ -14,18 +14,17 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mindflayer.gif" width="220"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/mindflayer.gif" width="400"/>
 </p>
 
 # 🩸 I’m **Jasmine Nofre** 🕯️
 ### Code • Design • Music • Manhwa • Stranger Things
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger things.gif" width="220"/>
- <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="150"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger things.gif" width="400"/>
+ <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="500"/>
 </p>
 
----
 
 ## 🧪 ABOUT ME
 
@@ -35,10 +34,9 @@ I enjoy building projects that mix **logic and aesthetics**.
 If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸🌙
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="300"/>
 </p>
 
----
 
 ## 🎧 NOW PLAYING — STRANGER THINGS VIBE
 
@@ -59,8 +57,6 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 - Space Song – Beach House  
 - 505 – Arctic Monkeys  
 
----
-
 ## 🕸️ MOOD TODAY
 
 <p align="center">
@@ -70,10 +66,9 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="160"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="300"/>
 </p>
 
----
 
 ## 🧬 FAVORITE CHARACTERS & INSPIRATIONS
 
@@ -108,10 +103,10 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/greendivider.gif" width="160"/>
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="160"/>
 </p>
 
----
+
 
 ## 🖥️ SKILLS — UPSIDE DOWN EDITION
 
@@ -131,7 +126,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://img.shields.io/badge/Canva-4B0082?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
+
 
 ## 📡 SIGNALS FROM THE OTHER SIDE
 
@@ -144,7 +139,7 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="200"/>
 </p>
 
----
+
 
 ## 🕯️ FINAL NOTE
 
@@ -153,5 +148,3 @@ If it feels cinematic, emotional, or slightly chaotic — that’s my space 🩸
     "Friends don't lie"
   </em>
 </p>
-
-🩸🌙
