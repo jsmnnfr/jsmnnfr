@@ -168,10 +168,11 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/upsidedown.svg" width="500"/>
+   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/escape.svg" width="500"/>
 </p>
 
 <p align="center">
-  <em>Survive. Don’t blink. Don’t lie.</em>
+  <em>Survive. Don’t blink. Don’t lie. Only one path gets you out.</em>
 </p>
 
 ## 🎄 EPISODE IX — RUN
