@@ -175,6 +175,27 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
   <em>Survive. Don’t blink. Don’t lie. Only one path gets you out.</em>
 </p>
 
+### 🩸 ESCAPE RESULTS
+
+#### 🟡 <a id="-escape-success"></a> YOU ESCAPED
+You ran.  
+The lights stopped blinking.  
+You survived… for now.
+
+---
+
+#### 🟠 <a id="-escape-unknown"></a> UNKNOWN FATE
+You hid.  
+Something passed by.  
+You’re not sure if it saw you.
+
+---
+
+#### 🔴 <a id="-escape-fail"></a> TOO LATE
+You stayed.  
+The lights went out.  
+You shouldn’t have hesitated.
+
 ## 🎄 EPISODE IX — RUN
 
 <p align="center">
