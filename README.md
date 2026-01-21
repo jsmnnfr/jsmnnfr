@@ -164,7 +164,7 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
   🩸🌙
 </p>
 
-## 🎮 EPISODE VII — ESCAPE THE UPSIDE DOWN
+## 🎮 EPISODE VIII — ESCAPE THE UPSIDE DOWN
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/upsidedown.svg" width="500"/>
@@ -173,4 +173,15 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 <p align="center">
   <em>Survive. Don’t blink. Don’t lie.</em>
 </p>
+
+## 🎄 EPISODE IX — RUN
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/run.svg" width="720"/>
+</p>
+
+<p align="center">
+  <em>The wall is trying to warn you.</em>
+</p>
+
 
