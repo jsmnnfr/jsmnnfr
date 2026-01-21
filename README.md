@@ -1,6 +1,6 @@
 <!-- ================= STRANGER THINGS THEME README ================= -->
 
-<p>
+<p align="center">
 ███████╗████████╗██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗ 
 ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗
 ███████╗   ██║   ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝
@@ -27,11 +27,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/stranger%20things.gif" width="380"/>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="480"/>
+  <br>
 </p>
 
-<br><br>
+<br>
 
 ## 🧪 EPISODE I — ABOUT ME
 
@@ -43,7 +42,7 @@ I enjoy building projects that mix **logic and aesthetics**.
 If it feels like it belongs in a dark room with music playing — that’s my space 🩸🌙
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/red.gif" width="460"/>
+   <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="480"/>
 </p>
 
 <br>
