@@ -38,8 +38,8 @@
   <em>Somewhere between Hawkins and late-night coding</em>
 </p>
 
-I enjoy building projects that mix **logic and aesthetics**.  
-If it feels like it belongs in a dark room with music playing — that’s my space 🩸🌙
+I enjoy building and designing projects. 
+I love it when some music playing while working on a project. 🩸🌙
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/jsmnnfr/jsmnnfr/main/gif/gang.gif" width="480"/>
