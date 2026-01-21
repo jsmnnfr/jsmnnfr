@@ -151,17 +151,7 @@ I love it when some music playing while working on a project. 🩸🌙
   <img src="https://img.shields.io/github/stars/jsmnnfr?style=for-the-badge&color=4B0082"/>
 </p>
 
-<br><br>
-
-<h2>🕯️ FINAL NOTE</h2>
-
-<p align="center">
-  <em><b>“Friends don’t lie.”</b></em>
-</p>
-
-<p align="center">
-  🩸🌙
-</p>
+<br>
 
 ## 🎮 EPISODE VIII — ESCAPE THE UPSIDE DOWN
 
@@ -184,4 +174,15 @@ I love it when some music playing while working on a project. 🩸🌙
   <em>The wall is trying to warn you.</em>
 </p>
 
+<br>
+
+<h2>🕯️ FINAL NOTE</h2>
+
+<p align="center">
+  <em><b>“Friends don’t lie.”</b></em>
+</p>
+
+<p align="center">
+  🩸🌙
+</p>
 
