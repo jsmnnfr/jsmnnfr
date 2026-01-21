@@ -32,7 +32,7 @@
 
 <br>
 
-## <font color="crimson">🧪 EPISODE I — ABOUT ME</font>
+## 🧪 EPISODE I — ABOUT ME
 
 <p align="center">
   <em>Somewhere between Hawkins and late-night coding</em>
@@ -47,7 +47,10 @@ If it feels like it belongs in a dark room with music playing — that’s my sp
 
 <br>
 
-## <font color="darkred">🎧 EPISODE II — NOW PLAYING</font>
+<h2>
+  <font color="darkred">🎧 EPISODE II — NOW PLAYING</font>
+</h2>
+
 
 <p align="center">
   <a href="https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX">
