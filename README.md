@@ -56,10 +56,10 @@ I love it when some music playing while working on a project. 🩸🌙 </p>
 
 🩸 **Recommended Songs**
 - Running Up That Hill — Kate Bush  
-- After Dark — Mr. Kitty  
+- Should I Stay or Should I Go - The Clash
 - Black Swan — BTS  
-- Space Song — Beach House  
-- 505 — Arctic Monkeys  
+- Every Breath You Take - The Police  
+- Never Ending Story - Gaten Matarazzo / Gabriella Pizzolo
 
 ## 🕸️ EPISODE III — MOOD TODAY
 
